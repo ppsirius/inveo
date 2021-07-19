@@ -38,7 +38,7 @@
     "why-did-you-update": "^1.0.6"
   },
   "devDependencies": {
-    "gatsby-source-wordpress": "^3.0.58",
+    "gatsby-source-wordpress": "^4.0.8",
     "prettier": "^1.17.1"
   },
   "keywords": [
